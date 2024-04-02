@@ -15,6 +15,7 @@ function checkShowDeletedTodos() {
     }
 }
 
+//comment for testing
 checkShowDeletedTodos();
 
 function getTodolistFromLocal() {
